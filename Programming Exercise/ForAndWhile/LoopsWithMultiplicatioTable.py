@@ -169,6 +169,11 @@ End of tables
 Print what the user is asking. 
 Also ask the user what number table they want to print
 
+7.Challange questions
+Ask the user which tables he/she wants to print (eg 2,9,7,12)
+Also ask if they want to see the basic only or advanced only or both.
+Hint - use list to get the user input and learn how to use a list in range statement
+
 
 
 '''
