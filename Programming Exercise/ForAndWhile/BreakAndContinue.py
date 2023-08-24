@@ -1,7 +1,7 @@
 ############## Problem  1 #################### 
 #Ask first friend the movies they like. Save it in a list
 #Ask another friend the same question. If the movie is in the first friend's list, 
-#Print "You both like "name of the color"
+#Print "You both like "name of the movie"
 #Continue until they is atleast 3 movies they both like
 
 #init variables
@@ -27,7 +27,18 @@ while (True) :
 print () #FillinMissingCode - list all the common movies
 
 
-############## Problem  2 #################### 
+############## Problem 2 ################
+#Use For loop, break and continue as needed.
+# You need Rs 1000 to go to movie. you are asking your parents for money. your parents give you a
+# some money. Ask your parents for money until you get Rs1000 or a maximum of 5 times.
+# Each time they give you some money, you need to print how much money you got so far and print "Thank you.".
+# Print "Thank you " only if the money is > Rs 10. If money is less than or = Rs 10, don't add it
+# towards the Rs1000 that you need. Use Continue stmt as needed.
+# Print how many times you had to ask your parents to get this money.
+
+
+
+############## Problem  3  #################### 
 #Calculate the monthly salary for the phone salesman
 #Base monthly pay Rs10000. 
 #For every 5 phones sold, Rs 5000 bonus.
