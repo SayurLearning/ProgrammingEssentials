@@ -62,3 +62,9 @@ for word in inputSentence.split(): #gets the word in a sentence
 
     word = #FillinMissingCode  
     print( #FillinMissingCode)
+        
+
+  ########### Program 5 #######
+  # Write a program to run a cafe
+  #   
+
