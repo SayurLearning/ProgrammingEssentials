@@ -66,5 +66,5 @@ for word in inputSentence.split(): #gets the word in a sentence
 
   ########### Program 5 #######
   # Write a program to run a cafe
-  #   
+  #  Cafe should have inventory, sales data and profit
 
