@@ -1,0 +1,44 @@
+
+Problem 1:
+Read a passage from a file. (If you don't know how to handle files in Python, you can hardcode a long passage)
+Count the number of times the word 'the' followed by another 'the' without 'a' in between.
+
+Eg The king went to the forest with the wife and a servernt. The king shot a deer. The king went to the forest again the next day.
+
+answer is 4 (The king, the forest, The King the next).
+
+Problem 2:
+Encoding 
+Encode the user input using the following alg, using the encode Key (a number)
+
+For each word in the odd position, move each letter in the word by the number of positions mentioned in the key.
+For words in the even position, reverse the word and then do the same as the odd position
+
+Eg - Key 2, input sentence "I am the King"
+Output K oc vjg ipkM
+
+
+Problem 3:
+No need to write a program. Just pseudocode is enough
+
+Define a class for a instagram post. Define the properties and functions.
+Define which one will be private and which one public.
+
+Write sql query from the following student table
+id      name     city        pincode     age
+1       Aravind  MAA         112         19
+2       ragul    MAA         113         20
+3       sree     MDU         021         19
+4       krishna  TRI         022         22
+
+Print the list of name from  MAA 
+Count the no of people from TRI
+Count the no of people in each city
+Print the avg age of the students in this table
+
+
+
+
+
+
+
