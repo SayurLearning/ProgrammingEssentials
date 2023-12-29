@@ -1,0 +1,23 @@
+Database exercise
+1. Design a DB for keepting all the data for the movie theatres in Madurai.
+For each theatre you need to keep track of the name, phone number, web site address,
+ number of seats, location and owner details.
+
+Keep the owner details (such as name, address, phone number) in a separate table and connect with the
+theatre table.
+
+Write queries to print the following data. Add additional info in the table if needed.
+The number of theatres in Madurai that were built before 2010.
+The name and address of the theatre owners who have more than 3 theatres.
+
+
+
+2. For each theatre, keep track of the movies currently playing and when (the date that movie started playing 
+in that theatre)
+Write queries for the following
+The list of all the movies playing in Madurai (don't repeat the names)
+The movie thats been playing the longest time.
+The movie thats been playing in most theatres now
+
+
+
