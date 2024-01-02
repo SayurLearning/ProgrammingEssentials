@@ -1,0 +1,29 @@
+
+**Problem Statement: Cricket Club Database**
+
+You're tasked with designing a database for a local cricket club. The database should store information 
+about players, matches, and team statistics.
+
+1. **Players:**
+   - Each player has a  name, age, role (batsman, bowler, all-rounder), and nationality.
+   - Some players have additional details such as batting average, bowling average, and total runs scored.
+
+2. **Matches:**
+   - Store match details like  date, venue, opponent team, and result.
+   - Include information about the players participating in each match, their roles, and
+    any specific statistics (runs scored, wickets taken, etc.) for that match.
+
+3. **Teams:**
+   - Details of the teams affiliated with the club, including  name, coach, and captain.
+
+**Queries:**
+
+1. Retrieve all players' details.
+2. Get the details of matches played in a specific venue.
+3. List all matches where a particular player participated.
+4. Find players with a batting average above a certain value.
+5. Display the team details along with the list of players in each team.
+6. Find the top-performing players based on their batting or bowling statistics across all matches.
+
+
+
