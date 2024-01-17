@@ -1,7 +1,7 @@
 DB problems.
 Create a DB for student data in Mysql. There are three tables. 
 Student details table
-    Student Id,Name, Address, Class (1 to 12), Gender (Male/Female)
+    Student Id,Name, Address, Class (1 to 12), Gender (Male/Female), email id
 Exam details table
     Exam id, Name (Quarterly, helf yearly , etc), Exam Month (Sep, Dec, etc - the month in which the exam was held
     ), Subject (Math, Physics,etc)
@@ -19,5 +19,10 @@ Once the data is loaded in tables, answer the following questions.
 4. List the number of students in each class (1 to 12)
 5. List the number of students whose name starts with 'A' or 'C'
 6. List the avg marks for students in each subject in each class
+7. List all the student details in ascending order of mark and grade (all 12 the grade students 
+first and then 11th etc)
+8. List all the students who come from Madurai and Trichy
+9. List all the students who scored >90 in Math in Final exam and Quarterly exam
+
 
 
