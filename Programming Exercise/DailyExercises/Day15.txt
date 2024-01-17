@@ -24,6 +24,10 @@ about players, matches, and team statistics.
 4. Find players with a batting average above a certain value.
 5. Display the team details along with the list of players in each team.
 6. Find the top-performing players based on their batting or bowling statistics across all matches.
+7. List the total number of players in each team
+8. List the teams that has more than 20 team members.
+
+
 
 
 

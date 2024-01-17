@@ -1,0 +1,23 @@
+DB problems.
+Create a DB for student data in Mysql. There are three tables. 
+Student details table
+    Student Id,Name, Address, Class (1 to 12), Gender (Male/Female)
+Exam details table
+    Exam id, Name (Quarterly, helf yearly , etc), Exam Month (Sep, Dec, etc - the month in which the exam was held
+    ), Subject (Math, Physics,etc)
+Mark table
+    StudentId, Exam id, mark (0-100)
+
+Create a CSV file with actual data for each of these tables.
+
+Write a python program to read from this csv file and write to these tables.
+
+Once the data is loaded in tables, answer the following questions.
+1. List all the students that scored >90 in Math.
+2. List the number of students that scores >80 in each Subject
+3. List the number of male students and number of female students that scored >90 in Math
+4. List the number of students in each class (1 to 12)
+5. List the number of students whose name starts with 'A' or 'C'
+6. List the avg marks for students in each subject in each class
+
+
