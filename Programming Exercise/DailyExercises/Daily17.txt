@@ -1,0 +1,22 @@
+OOP problem.
+1. Define a class for movie theatre. 
+Properties should be Name, current movie, Location, and Owner name.
+All fields except Current movie should have value.
+Add a constructor to create a new theatre.
+Add functions to change the current movie.
+
+In the program, creaet 5 moview theatres.
+List all the theatres in Madurai
+List all the theatres that is running the movie "Captain America"
+
+2. Define a class for YouTube video. 
+decide the properties and functions based on the questions below.
+
+List all the videos recorded by author "Kannan"
+List all the videos with more than 1K views
+Change the author of all the videos recorded by "Kannan" to "Kannan D."
+20 students watched Kannan's "Intro to Python" video today. Update the videos views and print
+the total views for this video.
+
+
+
