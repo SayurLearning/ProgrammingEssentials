@@ -1,0 +1,15 @@
+Extensions of Day17 OOP hw.
+1. Same as the movie theatre probme. Add the following
+Each theatre needs to have a list of all the movies it played and for how long.
+The theatre owner can sell the theatre to someone else. They need to keep track of 
+when the theatre was last sold and for how much money
+Write a function to list all the movies that played for more than 50 days in a given theatre.
+
+
+2.Same the YT video class in Day 17.
+Write a function that will send an email  to the author of the video, whenever the number of likes reaches 
+1K, 2K or 5k.
+
+Write a function to list all Yoga videos.
+
+
