@@ -19,6 +19,15 @@ dice.If the rolled number is 0, game ends. If the rolled number is even, then 2 
  added. If the number is odd, then if the number is 1,3 then the user has to jump. 
  If the number is 5, then 3 points are added. The game ends when the user has 50 points.
 
+Problem #4
+You are inviting 3 of your friends over to your house for watching a movie.
+You have a list of 5 movies you like. Ask each of your friends 5 movies they like.
+
+1. List all the movies everyone likes
+2. List only the movies you like but no one else likes
+3. List the movies you like and at least one friend likes. Find which friend it is.
+4. List the movies all your friends like but you don't like.
+
 
 
 
